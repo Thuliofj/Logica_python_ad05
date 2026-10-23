@@ -32,5 +32,5 @@ lista += ["Carlos", "Mariana", "Pedro"]
 print(lista)
 #pop remove um item especifico indicando indice
 lista.pop(2)
-
+ 
 print(lista)
