@@ -1,8 +1,8 @@
 nome = input("Digite seu nome :")
 profissao = input("Digite sua profissão :")
-primeiro_adjetivo = input("Digite o primeiro adjetivo :")
-segundo_adjetivo = input("Digite o segundo adjetivo :")
-primeira_comida = input("Digite a primeira comida :")
+primeiro_adjetivo = input("Digite o primeiro adjetivo do aluno:")
+segundo_adjetivo = input("Digite o segundo adjetivo do professor:")
+primeira_comida = input("Digite a primeira comida que comeu no almoço:")
 segunda_comida = input("Digite a segunda comida :")
 sentimento = input("Digite um sentimento :")
 
