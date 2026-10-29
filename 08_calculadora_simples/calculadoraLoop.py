@@ -16,7 +16,7 @@ while True:
 
   elif operador == "-":
     subtracao = numero1 - numero2
-    print(substracao)
+    print(subtracao)
 
   elif operador == "*":
     multiplicacao = numero1 * numero2
