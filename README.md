@@ -16,8 +16,8 @@ Cada pasta reúne um tema, em ordem crescente de dificuldade, do primeiro "Hello
 | `04_shoppinglist` | Lista de compras | Manipulação de listas e organização de dados | ✅ Concluído |
 | `05_fluxos` | Fluxos de controle | Condicionais (`if`, `elif`, `else`) e laços de repetição (`for`, `while`) | ✅ Concluído |
 | `06_Fizzbuzz` | FizzBuzz | Desafio clássico que combina condicionais, laços e operador de módulo | ✅ Concluído |
-| `07_funcoes` | Funcoes | Definição de função (`def`), importação de bibliotecas (`datetime`, `calender`, `babel`) e desafio pratico to_do_list| ✅ Concluído  |
-| `08_calculadora_simples` | Calculadora | Projeto para fazer uma calculadora simples utilizando operadores simples (`+`, `-`, `/`, `*`), feito a parte Calculadora com loop de repetição | ✅ Concluído |
+| `07_funcoes` | Funcoes | Definição de função (`def`), importação de bibliotecas (`datetime`, `calendar`, `babel`) e desafio pratico to_do_list| ✅ Concluído  |
+| `08_calculadora_simples` | Calculadora | Projeto de calculadora simples utilizando operadores simples (`+`, `-`, `/`, `*`) (Fiz a parte uma calculadora com loop de repetição)| ✅ Concluído |
 | `07_...` | Em breve | Novos conteúdos do curso | 🔜 Em breve |
 
 
